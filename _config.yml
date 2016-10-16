@@ -2,7 +2,7 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://xinmu01.github.io
-title: Xin Mu
-tagline: A log of everyday life
-description: My awesome new site
-paginate: 5
+title: Xin Mu's Blog
+tagline: A log of everyday's data science journey
+description: This bolg keeps tracks of my learning process of data science
+paginate: 1
