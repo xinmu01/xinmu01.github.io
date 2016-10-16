@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://xinmu01.github.io
+title: Xin Mu
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
