@@ -1,6 +1,6 @@
 ---
 published: true
-title: Numpy Array -- Summary
+title: Bag-of-Word and N-gram Language Model
 layout: post
 ---
 Bag-of-word is the simplies language model, which is commonly used in methods of document classification where the (frequency of) occurrence of each word is used as a feature for training a classifier. 
