@@ -29,7 +29,7 @@ Bag-of-word model is an orderless document representation, which means only the 
 
 ["John likes", "likes to", "to watch", "watch movies", "Mary likes", "likes movies", "movies too"]
 
-Then the term frequency of each unit is stored as before.
+Then the term frequency of each unit is stored as before. Conceptually, we can view bag-of-word model as a special case of the n-gram model, with n=1.
 
 
 
