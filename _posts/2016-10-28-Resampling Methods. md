@@ -1,3 +1,9 @@
+---
+published: true
+title: Resampling Methods
+layout: post
+---
+
 In this article, I will discuss two common resampling methods -- Cross Validation and Bootstrap.
 
 ## Cross Validation
