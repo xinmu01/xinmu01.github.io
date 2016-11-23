@@ -17,3 +17,6 @@ Every sentence can be represented as a parse tree according to the CFG.
 
 NN -> man;
 S -> NP;
+
+### Cocke–Younger–Kasami(CYK) algorithm
+CYK algorithm is a dynamic programming method to find most probable parse tree for a given sentence. This algorithm can be used only when the CFG is in the Chomsky normal form (CNF). It is possible to convert any PCFG into an equivalent grammar in CNF. 
