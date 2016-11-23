@@ -12,7 +12,7 @@ Context free grammar(CFG) consists of different rules. Generally speaking, there
 A string s is said to be in the language defined by a CFG if there is a least one deviation whose yeild is s. 
 
 ### Parse Tree
-Every sentence can be represented as a parse tree according to the CFG.
+Every sentence can be represented as a parse tree according to the CFG. The task of parsing is to build the parse tree of a sentence.
 ### Unary rule
 
 NN -> man;
