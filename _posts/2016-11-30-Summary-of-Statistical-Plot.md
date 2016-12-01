@@ -7,6 +7,6 @@ In this article, I will summarize the common plot for the descriptive statistics
 
 ## Stem-and-leaf Plot
 
-## Pie plot
+## Pie Plot
 
-## Box plot
+## Box Plot
