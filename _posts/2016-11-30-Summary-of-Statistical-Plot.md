@@ -10,3 +10,5 @@ In this article, I will summarize the common plot for the descriptive statistics
 ## Pie Plot
 
 ## Box Plot
+
+## Histogram
