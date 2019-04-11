@@ -1,3 +1,9 @@
 name: Xin Mu
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+title: Xinmu01.GitHub.io
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
