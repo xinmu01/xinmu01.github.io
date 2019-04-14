@@ -39,6 +39,6 @@ For this example, s.iloc[:3] returns us the first 3 rows (since it treats 3 as a
 2    NaN
 3    NaN
 
-Notes<br />:
+Notes:<br />
 (1) Dataframe slicing follow the same rule as Series. <br />
 (2) If the Series or Dataframe does not have labels for index or column, when using loc, the default 0,1,2,3... can be read as index or column by loc.  
