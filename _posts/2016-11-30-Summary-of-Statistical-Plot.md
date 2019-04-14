@@ -3,12 +3,14 @@ published: true
 title: Summary of Statistical Plot
 layout: post
 ---
-In this article, I will summarize the common plot for the descriptive statistics.
+In this article, I will summarize some common plots for descriptive statistics.
 
-## Stem-and-leaf Plot
+### Scatter Plot
 
-## Pie Plot
+### Stem-and-leaf Plot
 
-## Box Plot
+### Pie Plot
 
-## Histogram
+### Box Plot
+
+### Histogram
